@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Dmytro, and I am currently working on my ThingsToDo app.
+
+Please feel free to check out my other apps and demos!
+
 <!--
 **DmytroKhrishu/DmytroKhrishu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
